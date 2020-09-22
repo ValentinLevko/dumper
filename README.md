@@ -1,2 +1,2 @@
 # dumper
-I using haze dumper
+Dump csgo always now
